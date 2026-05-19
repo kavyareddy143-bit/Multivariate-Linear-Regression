@@ -42,7 +42,8 @@ print(regression.predict([[3300,1300]]))
 
 ```
 ## Output:
-<img width="806" height="213" alt="image" src="https://github.com/user-attachments/assets/2d2ac328-a931-4f6d-9152-87fd121dc3ea" />
+<img width="784" height="524" alt="image" src="https://github.com/user-attachments/assets/b1026dad-244c-494d-8dc1-2e2bde95940a" />
+
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
